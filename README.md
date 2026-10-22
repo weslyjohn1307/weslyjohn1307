@@ -1,32 +1,35 @@
-# Wesly John
+# John Wesly
 
-I work on software that has to keep working when the network does not.
+Civil Engineering graduate · Graphic designer · Software developer
 
-Most of my focus is **mobile and local-first systems**: Flutter on Android, SQLite as the source of truth, and product flows built around real warehouse and field constraints -- not demos that only run on a happy path.
+I studied Civil Engineering, but my work has moved across a few fields. I've been in the printing industry since 2017 and working in graphic design since 2019.
 
-## Selected work
+A lot of my experience is hands-on: operating DTP software, using print-production tools such as Maintop, preparing artwork for different kinds of media, and sorting out the issues that come up between a design file and the final print. I've also operated projectors and cameras, handled live streaming and event setups, and built and repaired PCs.
 
-### [Dispatch](https://github.com/weslyjohn1307/Dispatch)
-Offline warehouse dispatch for Android.
+Software has become another way for me to work on practical problems. Some of my projects are mobile apps, some are desktop tools, and some involve AI or technical drawings. I use different technologies depending on the job; Rust and Tauri, Flutter, and Kotlin are among the tools I've worked with. I don't have one fixed stack.
 
-- Sealed cartons as atomic stock units (`SEALED` -> `RESERVED` -> `DISPATCHED`)
-- Crash-safe draft sessions and recovery sweeps
-- Immutable delivery history with PDF notes and local backups
-- Riverpod, go_router, sqflite; CI builds release APKs on version tags
+## Personal projects
 
-Source, docs, and installable APK:
-https://github.com/weslyjohn1307/Dispatch/releases/latest
+**Momentum**  
+A personal app for recording everyday transactions with the context around them—people, places, payment methods and notes—so those moments can be searched later. It is being designed to work offline.
 
-## What I care about in code
+**MEP AI**  
+A project exploring how to identify, classify and count mechanical, electrical and plumbing components in 2D drawings, then turn the results into structured data.
 
-- **Correctness over novelty** -- migrations, invariants, and idempotent commits matter more than flashy UI
-- **Operator UX** -- large touch targets, calm layouts, fast paths for repeat work
-- **Boring reliability** -- offline drafts, explicit failure modes, no cloud dependency required to ship a carton
+**Printing Dispatch Manager**  
+Software for printing-press dispatch work, including stock, delivery sessions, dispatch history, backups and delivery-note PDFs.
 
-## Stack I use most
+**Booklet Maker**  
+A project focused on booklet creation and print preparation, informed by the practical requirements of getting printed work ready for production.
 
-Dart, Flutter, Android, SQLite, Riverpod, GitHub Actions
+A few other projects are in progress. Some repositories are still private; I'll add links when they're ready to share.
 
----
+## Tools in the mix
 
-GitHub is where I keep public work. For private collaboration or production signing setup, reach out through GitHub.
+Rust · Tauri · Flutter · Kotlin · Python · TypeScript · JavaScript
+
+This is only a snapshot of what I've used recently. The tools change with the project.
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/john-wesly-kothapalli-b65378224/) · [GitHub](https://github.com/weslyjohn1307)
