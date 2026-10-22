@@ -4,8 +4,6 @@ Civil Engineering graduate · Graphic designer · Software developer
 
 I studied Civil Engineering, but my work has moved across a few fields. I've been in the printing industry since 2017 and working in graphic design since 2019.
 
-A lot of my experience is hands-on: operating DTP software, using print-production tools such as Maintop, preparing artwork for different kinds of media, and sorting out the issues that come up between a design file and the final print. I've also operated projectors and cameras, handled live streaming and event setups, and built and repaired PCs.
-
 Software has become another way for me to work on practical problems. Some of my projects are mobile apps, some are desktop tools, and some involve AI or technical drawings. I use different technologies depending on the job; Rust and Tauri, Flutter, and Kotlin are among the tools I've worked with. I don't have one fixed stack.
 
 ## Personal projects
