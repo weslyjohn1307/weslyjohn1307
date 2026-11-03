@@ -1,33 +1,18 @@
 # John Wesly
 
-Civil Engineering graduate · Graphic designer · Software developer
+**Civil engineering · Graphic design · Software development**
 
-I studied Civil Engineering, but my work has moved across a few fields. I've been in the printing industry since 2017 and working in graphic design since 2019.
+I build practical software for people doing real work—from reviewing construction drawings to handling warehouse dispatch and preparing Telugu text for print.
 
-Software has become another way for me to work on practical problems. Some of my projects are mobile apps, some are desktop tools, and some involve AI or technical drawings. I use different technologies depending on the job; Rust and Tauri, Flutter, and Kotlin are among the tools I've worked with. I don't have one fixed stack.
+My background is in civil engineering and print production. I have worked in printing since 2017 and in graphic design since 2019. Software gives me another way to improve the workflows I know firsthand.
 
-## Personal projects
+## Selected work
 
-**Momentum**  
-A personal app for recording everyday transactions with the context around them—people, places, payment methods and notes—so those moments can be searched later. It is being designed to work offline.
+- **[BlueTrace](https://github.com/weslyjohn1307/BlueTrace)** — An in-progress MEP drawing review prototype. [Open the interactive showcase](https://weslyjohn1307.github.io/BlueTrace/).
+- **[OpenTelugu](https://github.com/weslyjohn1307/Opentelugu)** — A Windows workbench for Telugu typesetting and print preparation, designed to work offline. [View releases](https://github.com/weslyjohn1307/Opentelugu/releases).
+- **[Dispatch](https://github.com/weslyjohn1307/Dispatch)** — An offline-first Android app for warehouse stock and delivery workflows. [View the latest release](https://github.com/weslyjohn1307/Dispatch/releases/latest).
+- **[OpenStage](https://github.com/weslyjohn1307/OpenStage)** — Open-source live production software for local churches, built for the laptop and volunteer already on hand.
 
-**MEP AI**  
-A project exploring how to identify, classify and count mechanical, electrical and plumbing components in 2D drawings, then turn the results into structured data.
+I choose tools to fit each project. Recent work includes Rust, Tauri, Flutter, Kotlin, Python, and TypeScript.
 
-**Printing Dispatch Manager**  
-Software for printing-press dispatch work, including stock, delivery sessions, dispatch history, backups and delivery-note PDFs.
-
-**Booklet Maker**  
-A project focused on booklet creation and print preparation, informed by the practical requirements of getting printed work ready for production.
-
-A few other projects are in progress. Some repositories are still private; I'll add links when they're ready to share.
-
-## Tools in the mix
-
-Rust · Tauri · Flutter · Kotlin · Python · TypeScript · JavaScript
-
-This is only a snapshot of what I've used recently. The tools change with the project.
-
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/john-wesly-kothapalli-b65378224/) · [GitHub](https://github.com/weslyjohn1307)
+[LinkedIn](https://www.linkedin.com/in/john-wesly-kothapalli-b65378224/)
