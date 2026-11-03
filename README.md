@@ -6,9 +6,11 @@ I build practical software around real workflows: construction drawing review, T
 
 <p align="center">
   <a href="https://weslyjohn1307.github.io/BlueTrace/">
-    <img src="https://raw.githubusercontent.com/weslyjohn1307/BlueTrace/master/docs/assets/demo-workspace.png" alt="BlueTrace drawing review workspace showing an MEP plan beside the takeoff ledger" width="100%" />
+    <img src="https://raw.githubusercontent.com/weslyjohn1307/BlueTrace/master/docs/assets/readme-motion-poster.png" alt="BlueTrace editorial poster built around a real MEP drawing review workspace" width="100%" />
   </a>
 </p>
+
+<p align="center"><sub>Editorial artwork around a real workspace capture; the scale callout and workflow labels are static overlays.</sub></p>
 
 <p align="center"><strong>BlueTrace</strong> · MEP drawing review, in active development · <a href="https://weslyjohn1307.github.io/BlueTrace/">Open the interactive showcase</a> · <a href="https://github.com/weslyjohn1307/BlueTrace">Source</a></p>
 
