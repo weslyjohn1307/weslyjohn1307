@@ -2,17 +2,41 @@
 
 **Civil engineering · Graphic design · Software development**
 
-I build practical software for people doing real work—from reviewing construction drawings to handling warehouse dispatch and preparing Telugu text for print.
+I build practical software around real workflows: construction drawing review, Telugu publishing, warehouse dispatch, and live production.
 
-My background is in civil engineering and print production. I have worked in printing since 2017 and in graphic design since 2019. Software gives me another way to improve the workflows I know firsthand.
+<p align="center">
+  <a href="https://weslyjohn1307.github.io/BlueTrace/">
+    <img src="https://raw.githubusercontent.com/weslyjohn1307/BlueTrace/master/docs/assets/demo-workspace.png" alt="BlueTrace drawing review workspace showing an MEP plan beside the takeoff ledger" width="100%" />
+  </a>
+</p>
 
-## Selected work
+<p align="center"><strong>BlueTrace</strong> · MEP drawing review, in active development · <a href="https://weslyjohn1307.github.io/BlueTrace/">Open the interactive showcase</a> · <a href="https://github.com/weslyjohn1307/BlueTrace">Source</a></p>
 
-- **[BlueTrace](https://github.com/weslyjohn1307/BlueTrace)** — An in-progress MEP drawing review prototype. [Open the interactive showcase](https://weslyjohn1307.github.io/BlueTrace/).
-- **[OpenTelugu](https://github.com/weslyjohn1307/Opentelugu)** — A Windows workbench for Telugu typesetting and print preparation, designed to work offline. [View releases](https://github.com/weslyjohn1307/Opentelugu/releases).
-- **[Dispatch](https://github.com/weslyjohn1307/Dispatch)** — An offline-first Android app for warehouse stock and delivery workflows. [View the latest release](https://github.com/weslyjohn1307/Dispatch/releases/latest).
-- **[OpenStage](https://github.com/weslyjohn1307/OpenStage)** — Open-source live production software for local churches, built for the laptop and volunteer already on hand.
+---
 
-I choose tools to fit each project. Recent work includes Rust, Tauri, Flutter, Kotlin, Python, and TypeScript.
+## More work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/weslyjohn1307/Opentelugu">
+        <img src="https://raw.githubusercontent.com/weslyjohn1307/Opentelugu/main/docs/screenshots/keyboard-hook.png" alt="OpenTelugu system-wide Telugu typing tool and searchable glyph directory" width="100%" />
+      </a>
+      <strong><a href="https://github.com/weslyjohn1307/Opentelugu">OpenTelugu</a></strong><br />
+      A Windows workbench for Telugu typesetting and print preparation. <a href="https://github.com/weslyjohn1307/Opentelugu/releases">See releases</a>.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/weslyjohn1307/OpenStage">
+        <img src="https://raw.githubusercontent.com/weslyjohn1307/OpenStage/main/assets/banner-study-light.svg" alt="OpenStage Study Light theme artwork" width="100%" />
+      </a>
+      <strong><a href="https://github.com/weslyjohn1307/OpenStage">OpenStage</a></strong><br />
+      Open-source live production software for local churches, built for offline use.
+    </td>
+  </tr>
+</table>
+
+**[Dispatch](https://github.com/weslyjohn1307/Dispatch)** — An offline-first Android app for warehouse stock and delivery workflows. [Get the latest release](https://github.com/weslyjohn1307/Dispatch/releases/latest).
+
+I came to software through civil engineering and print production. I have worked in printing since 2017 and in graphic design since 2019. I choose tools to fit each project, including Rust, Tauri, Flutter, Kotlin, Python, and TypeScript.
 
 [LinkedIn](https://www.linkedin.com/in/john-wesly-kothapalli-b65378224/)
